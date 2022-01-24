@@ -1,5 +1,5 @@
 {
-	"name":"Merck Heroku Demo",
+	"name":"gkmerckherokudemo",
 	"version":"0.0.0",
 	"description":"Heroku Connect sample app",
 	"main":"server.js",
