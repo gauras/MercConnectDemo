@@ -26,8 +26,7 @@ app.post('/update', function(req, res) {
                         res.status(400).json({error: err.message});
                     }
                     else {
-                        // this will still cause jquery to display 'Record updated!'
-                        // eventhough it was inserted
+                       
                         res.json(result);
                     }
                   });
